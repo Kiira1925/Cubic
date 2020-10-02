@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\2190107\Desktop\2年後期3Dチーム\Github受け取り\cubic\main.cpp(2,1): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  cubic.vcxproj -> C:\Users\2190107\Desktop\2年後期3Dチーム\Github受け取り\Debug\cubic.exe
