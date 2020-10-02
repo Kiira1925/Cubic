@@ -1,8 +1,3 @@
 ﻿  main.cpp
-<<<<<<< HEAD
-C:\Users\2190028\Documents\Cubic\cubic\main.cpp(2,1): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
-  cubic.vcxproj -> C:\Users\2190028\Documents\Cubic\Debug\cubic.exe
-=======
-C:\Users\2190028\source\repos\cubic\cubic\main.cpp(2,1): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
-  cubic.vcxproj -> C:\Users\2190028\source\repos\cubic\Debug\cubic.exe
->>>>>>> kiira_develop
+C:\Users\2190441\Desktop\2年時_授業\2年後期チーム製作\第1回\cubic\main.cpp(2,1): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  cubic.vcxproj -> C:\Users\2190441\Desktop\2年時_授業\2年後期チーム製作\第1回\Debug\cubic.exe
